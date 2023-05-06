@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/platzi.checklist/static/css/main.d692a7bd.css",
+    "main.js": "/platzi.checklist/static/js/main.81faa038.js",
+    "index.html": "/platzi.checklist/index.html",
+    "main.d692a7bd.css.map": "/platzi.checklist/static/css/main.d692a7bd.css.map",
+    "main.81faa038.js.map": "/platzi.checklist/static/js/main.81faa038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d692a7bd.css",
+    "static/js/main.81faa038.js"
+  ]
+}
