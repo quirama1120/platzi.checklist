@@ -7,23 +7,6 @@
   pointer-events: none;
 }
 
-.no-todos-message {
-  background-image: url("https://images.pexels.com/photos/3299/postit-scrabble-to-do.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
-  height: 58vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 2vh;
-  font-weight: bold;
-  text-align: center;
-  margin-top: 7vh;
-  color: #61dafa;
-  pointer-events: none;
-}
-
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
